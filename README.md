@@ -10,6 +10,7 @@ Daily LeetCode problem-solving practice with optimized solutions
 | [0014-longest-common-prefix](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ Daily LeetCode problem-solving practice with optimized solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ayeshaqamarkhanam-code/leetcode-best-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
